@@ -18,6 +18,7 @@ export default function App() {
 
   return (
     <div className={styles.index}>
+      "Add your perfect match here"
       <div className={styles.content}>
         <h1 className={styles.heading}>A short heading about [your app]</h1>
         <p className={styles.text}>
