@@ -3,7 +3,7 @@
 client_id = "14df4a60f16290439acf4771c0358384"
 name = "section demo"
 handle = "section-demo-1"
-application_url = "https://surrounded-lp-alice-simply.trycloudflare.com"
+application_url = "https://nation-entitled-dana-laura.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_themes,write_products,write_themes"
 
 [auth]
 redirect_urls = [
-  "https://surrounded-lp-alice-simply.trycloudflare.com/auth/callback",
-  "https://surrounded-lp-alice-simply.trycloudflare.com/auth/shopify/callback",
-  "https://surrounded-lp-alice-simply.trycloudflare.com/api/auth/callback"
+  "https://nation-entitled-dana-laura.trycloudflare.com/auth/callback",
+  "https://nation-entitled-dana-laura.trycloudflare.com/auth/shopify/callback",
+  "https://nation-entitled-dana-laura.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
