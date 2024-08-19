@@ -3,7 +3,7 @@
 client_id = "14df4a60f16290439acf4771c0358384"
 name = "section demo"
 handle = "section-demo-1"
-application_url = "https://nation-entitled-dana-laura.trycloudflare.com"
+application_url = "https://sorts-aka-rr-diffs.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_themes,write_products,write_themes"
 
 [auth]
 redirect_urls = [
-  "https://nation-entitled-dana-laura.trycloudflare.com/auth/callback",
-  "https://nation-entitled-dana-laura.trycloudflare.com/auth/shopify/callback",
-  "https://nation-entitled-dana-laura.trycloudflare.com/api/auth/callback"
+  "https://sorts-aka-rr-diffs.trycloudflare.com/auth/callback",
+  "https://sorts-aka-rr-diffs.trycloudflare.com/auth/shopify/callback",
+  "https://sorts-aka-rr-diffs.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
